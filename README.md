@@ -241,6 +241,14 @@ results/
 
 ---
 
+## 📜 License
+
+This repository is **All Rights Reserved**.
+
+The code and accompanying materials are shared only to showcase my work. Reproduction, redistribution, modification, or use in academic or commercial projects without explicit written permission is prohibited.
+
+---
+
 # 👩‍💻 Author
 
 **Titiksha Yadav**
@@ -248,7 +256,3 @@ results/
 Electronics Engineering Undergraduate
 
 Human-Computer Interaction Researcher
-
----
-
-# ⭐ If you found this project useful, consider giving it a star!
