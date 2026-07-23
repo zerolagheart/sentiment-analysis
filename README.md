@@ -146,15 +146,13 @@ These strategies improve convergence and help mitigate the class imbalance prese
 
 # 📈 Training Curves
 
-![Training](images/training_curves.png)
+![Training](sentiment_analysis_images/training_curves.png)
 
 ---
 
 # 🔥 Grad-CAM Visualization
 
 Grad-CAM is used to visualize the image regions that contribute most to the model's prediction, improving interpretability and trustworthiness.
-
-![GradCAM](images/gradcam.png)
 
 ---
 
@@ -168,7 +166,7 @@ The notebook includes real-time webcam inference using OpenCV for live emotion r
 
 # 📊 Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](sentiment_analysis_images/confusion_matrix.png)
 
 ---
 
