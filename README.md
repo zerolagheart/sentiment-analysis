@@ -160,8 +160,6 @@ Grad-CAM is used to visualize the image regions that contribute most to the mode
 
 The notebook includes real-time webcam inference using OpenCV for live emotion recognition.
 
-![Demo](images/webcam_demo.gif)
-
 ---
 
 # 📊 Confusion Matrix
